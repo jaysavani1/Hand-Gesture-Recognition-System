@@ -8,4 +8,4 @@ recognition.
 
 OpenCVis used to recognize gestures and makes it attainable to identify relatively complex gestures using only one cheap monocular camera. The developed system is highly extendable and can be used in human-robotic or other human-machine interaction scenarios with more complex command formats rather than just mouse and keyboard events.
 
-# For further details please visit : [@ Research Paper] (https://www.jetir.org/view.php?paper=JETIRCD06052)
+# For further details please visit : https://www.jetir.org/view.php?paper=JETIRCD06052
